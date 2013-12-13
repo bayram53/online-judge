@@ -1,0 +1,3 @@
+305C - Ivan and Powers of Two
+
+First of all, let's carry over all powers of two in the following way: if we have ai = aj, i ≠ j, carry 1 to ai + 1. Now as all of ai are distinct, the answer is max(ai) — cnt(ai) + 1, where max(ai) — maximal value of ai,cnt(ai) — size of a
