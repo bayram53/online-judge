@@ -1,2 +1,7 @@
-*
-!*.cpp
+*.html
+*.o
+*_files
+*.pdf
+*.zip
+*.in
+*.out
